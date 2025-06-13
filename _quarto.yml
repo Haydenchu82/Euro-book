@@ -22,7 +22,6 @@ book:
         - romaplan.qmd
         - rapalloplan.qmd
 
-bibliography: references.bib
 
 format:
   html:

@@ -1,0 +1,35 @@
+project:
+  type: book
+
+book:
+  title: "Euro book"
+  author: "Haodong Chu"
+  date: "2025/6/10"
+  chapters:
+    - part: "Cote d’Azur Project"
+      chapters:
+        - index.qmd
+        - Preparation.qmd
+        - parisplan.qmd
+        - marseilleplan.qmd
+        - niceplan.qmd
+        
+    - part: "Italy Plan"
+      chapters:
+        - genovaplan.qmd
+        - florenceplan.qmd
+        - romaplan.qmd
+        - rapalloplan.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

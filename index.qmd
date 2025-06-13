@@ -1,9 +1,29 @@
-# Euro book {.unnumbered}
+# *Cote d'Azur Project* {.unnumbered}
 
-This is a Quarto book.
+Welcome to our Euro Trip Book, Our destinations are France and Italy.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+`Please enjoy your journey`.
 
-```{r}
-1 + 1
-```
+Access your Map through: <https://www.google.com/maps/d/edit?mid=1IUeDoJBiMO4axclPWhRJV2VTMpURhE0&ll=45.1955733169315%2C5.85556241173541&z=6>\
+
+![`Trip map`](images/map.png)
+
+## Our members are:
+
+If any of the group members encounter an emergency, please contact the others through the following contact information:
+
+| Name        | Email （Emergency）     | Tel. (Emergency)               |
+|-------------|-------------------------|--------------------------------|
+| Chuhao Dong | Haydenchu082\@gmail.com | +44 7594104002/+86 15070811999 |
+| Tianchu Hui | Chuhui1123\@163.com     | +44 7827205058                 |
+| Maojun Yi   |                         | +86                            |
+
+## Our Trip Itinerary：
+
+![Trip Itinerary 1](images/Itinerary1.png)
+
+![Trip Itinerary 2](images/Itinerary2.png)
+
+![Trip Itinerary 3](images/Itinerary3.png)
+
+![Trip Itinerary 4](images/Itinerary4.png)
